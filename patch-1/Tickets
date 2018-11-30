@@ -1,0 +1,45 @@
+Code:010101
+Username:01
+Described issue:cant log in
+Reason:1
+Description:des1
+Status:In Attention
+Deparment:in-game
+Date:00/01/2001
+'''
+Code:0202
+Username:04
+Described issue:my battary off	
+Reason:2
+Description:des2
+Status:Received
+Deparment:account
+Date:00/02/2002
+'''
+Code:030303
+Username:03
+Described issue:qwerty	
+Reason:3
+Description:des3
+Status:In Attention
+Deparment:in-game
+Date:00/03/2003
+'''
+Code:040404
+Username:04
+Described issue:963852741
+Reason:4
+Description:des4
+Status:Received
+Deparment:account
+Date:00/04/2004
+'''
+Code:050505
+Username:05
+Described issue:i have an isuuue
+Reason:5
+Description:des5
+Status:In Attention-previuse/Received-new
+Deparment:account / in-game/ AAAAA
+Date:00/05/2005
+'''
